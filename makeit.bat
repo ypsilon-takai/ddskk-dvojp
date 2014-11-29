@@ -101,7 +101,7 @@ rem --- specify these variables accordingly for your system.)
 rem --- なお、DEFAULT_MAKE_ARG に可能な値は make1.bat を御覧ください。
 rem --- (Please see make1.bat for possible values of DEFAULT_MAKE_ARG.)
 
-set PREFIX=d:\userdata\q3197c\data\emacs-24.4
+set PREFIX=c:\tools\emacs-24.4
 set EMACS=%PREFIX%\bin\emacs.exe
 set LISPDIR=%PREFIX%\share\emacs\site-lisp
 set VERSION_SPECIFIC_LISPDIR=%PREFIX%\share\emacs\24.4\site-lisp
